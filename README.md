@@ -2,29 +2,14 @@
 ## Astro 416 (Spring 2025)
 
 ### Dates
-- April 21: 
-- April 23: 
-- April 25: 
-- April 28:
-- April 30:
-- May 2:
+- April 21: Aquila
+- April 23: Bootes
+- April 25: Cygnus
+- April 28: GB 
+- April 30: VG
+- May 2: MS
 
 ### Groups
-- Aquila
-- Bootes
-- Cygnus
-- Eridanus
-- Fornax
-- Hydrus
-
-### Students
-AC
-AD
-AE
-AS
-AG
-CM
-GB
-PC
-SD
-VG
+- Aquila: AC, AE, AG, AS
+- Bootes: AD, SD
+- Cygnus:  IW, PC, SB
