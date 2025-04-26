@@ -6,8 +6,8 @@
 - April 23: Bootes
 - April 25: Cygnus
 - April 28: GB 
-- April 30: VG
-- May 2: MS
+- April 30: MS
+- May 2: Final Reflection
 
 ### Groups
 - Aquila: AC, AE, AG, AS
